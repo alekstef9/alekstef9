@@ -2,5 +2,4 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/alekstef.png" alt="Your Image Badge" />
 
-<img width="500" height="205" alt="image" src="https://github.com/user-attachments/assets/da68eafe-db70-4a28-9acd-3661fef59c41" />
-(https://64.media.tumblr.com/98e228926c2c704894032ec136227e9f/tumblr_n4bomoiDUh1s0t6o2o1_500.gifv)
+![The Social Network](https://64.media.tumblr.com/98e228926c2c704894032ec136227e9f/tumblr_n4bomoiDUh1s0t6o2o1_500.gif)
